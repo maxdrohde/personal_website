@@ -1,6 +1,7 @@
 ---
 title: "About"
-
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hello!
+
+I'm currently a Biostatistics MS student at Vanderbilt University. My undergraduate degree is from Carleton College where I received a double major in Physics and Geology. I worked at the Food and Drug Administration from 2017 to 2020 in the Division of Antiviral Products where I conducted research on adverse events in patients taking drugs for hepatitis C and HIV.
